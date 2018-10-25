@@ -1,6 +1,12 @@
 # awesome-julia-datasciences
 Resources about Julia for DataSciences / Machine Learning
 
+I really find it easier to maintain bookmarks in a datasheet format:
+
+https://airtable.com/invite/l?inviteId=invxOmYmPMGSkckQn&inviteToken=0b986a9651139333f3715b0f4959e15899b10d4fb9dadaa03870dcea4b70784f
+
+Overview below, but the list will be kept up to date on airtable and converted to an awesome format from time to tim
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
