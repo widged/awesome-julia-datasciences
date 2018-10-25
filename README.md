@@ -15,6 +15,9 @@ Resources about Julia for DataSciences / Machine Learning
 <a name="apl"></a>
 ## APL
 
+ * [Julia](http://julialang.org) – high-level, high-performance dynamic programming language for technical computing
+ * [IJulia](https://github.com/JuliaLang/IJulia.jl) – a Julia-language backend combined with the Jupyter interactive environment
+
 <a name="julia-general-purpose"></a>
 ### General-Purpose Machine Learning
 
