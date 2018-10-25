@@ -5,7 +5,7 @@ I really find it easier to maintain bookmarks in a datasheet format:
 
 https://airtable.com/invite/l?inviteId=invxOmYmPMGSkckQn&inviteToken=0b986a9651139333f3715b0f4959e15899b10d4fb9dadaa03870dcea4b70784f
 
-Overview below, but the list will be kept up to date on airtable and converted to an awesome format from time to tim
+Below is a copy and paste of the Julia resources found in other awesome lists. My own list includes these and others in an airtable file. I will convert them to an awesome format from time to time.
 
 ## Table of Contents
 
